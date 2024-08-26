@@ -1,4 +1,6 @@
 #Instalação:
+    npm install vite-plugin-svgr --save-dev
+
     npm install react-router-dom prop-types vite-plugin-svgr
     Ativação no vite config:
 
